@@ -62,7 +62,7 @@ dc:08:56:bb:bb:bb,New-LocationB
 
 ```
 apMac,apLocation-OLD,apLocation-NEW,Result
-dc:08:56:09:4e:90,,,AP_NOT_FOUND
+dc:08:56:aa:aa:aa,,,AP_NOT_FOUND
 dc:08:56:bb:bb:bb,Wohnzimmer-Test2,Wohnzimmer,SUCCESS
 dc:08:56:cc:cc:cc,,,AP_NOT_FOUND
 dc:08:56:dd:dd:dd,,,AP_NOT_FOUND
