@@ -74,3 +74,4 @@ dc:08:56:dd:dd:dd,,,AP_NOT_FOUND
   - Login directly to the corresponding tenant as a workaround
 - CSV2AP.py doesn't currently support the authentication to 2FA-enabled tenants
   - Raise an issue here or vote if this is needed, then I'll spend time to implement this
+- Turns out that Windows CMD.EXE is causing some special characters (umlauts) to behave weird
